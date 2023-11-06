@@ -1,10 +1,15 @@
-## Exercices
+Lien vers les exos réalisés en ligne :
+**https://codesandbox.io/s/exos-react-partie-2-zzhqfp?file=/src/App.js** (attention : les fichiers sont en .js donc la syntaxe est parfois un peu différente des fichiers en .tsx pour la définition des variables/états)
 
-### Exercice 1
+
+
+# CONSIGNES
+
+## Exercice 1
 
 Créer un composant `Counter` qui affiche un compteur et qui permet de l'incrémenter et de le décrémenter.
 
-### Exercice 2
+## Exercice 2
 
 Créer un composant `Counter` qui affiche un compteur et qui permet de l'incrémenter et de le décrémenter.
 Ce composant doit être utilisé dans un composant `App` qui affiche deux compteurs.
@@ -19,7 +24,7 @@ compteur 1 = 2 compteur 2 = 0
 clique sur le bouton + du compteur 2
 compteur 1 = 2 compteur 2 = 1
 
-### Exercice 3
+## Exercice 3
 
 Créer un composant `Counter` qui affiche un compteur (sans boutons cette fois ci).
 Ce composant doit être utilisé dans un composant `App` qui affiche deux compteurs.
@@ -32,7 +37,7 @@ compteur 1 = 1 compteur 2 = 1
 clique sur le bouton
 compteur 1 = 2 compteur 2 = 2
 
-### Exercice 4
+## Exercice 4
 
 Créer un composant `Counter` qui affiche un compteur et qui permet de l'incrémenter et de le décrémenter.
 Ce composant doit être utilisé dans un composant `App` qui affiche deux compteurs.
