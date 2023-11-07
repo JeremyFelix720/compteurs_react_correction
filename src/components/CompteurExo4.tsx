@@ -1,6 +1,6 @@
-import React, { useCallback, useMemo, useState } from "react"
+import { useCallback, useMemo, useState } from "react"
 
-export default function CompteurExoQuatre(props: { value: number }){
+export default function CompteurExo4(props: { value: number }){
     const [cpt, setCpt] = useState(0)
 
     const counterValue = useMemo(() => {

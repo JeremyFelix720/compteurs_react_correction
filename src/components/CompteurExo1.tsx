@@ -1,6 +1,6 @@
-import React, { useCallback, useState } from "react"
+import { useCallback, useState } from "react"
 
-export default function CompteurExoUn(){
+export default function CompteurExo1(){
     const [cpt, setCpt] = useState(0)
 
     const handleIncrement = useCallback(() => {
